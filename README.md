@@ -6,7 +6,7 @@ English Kindle series for Amazon KDP. Author: Micheal (An Yaming).
 
 | # | Title | Status |
 |---|-------|--------|
-| 1 | [Complaints, Not Inspiration](./book-01-complaints-not-inspiration/) | Draft MS ~23k words |
+| 1 | [Complaints, Not Inspiration](./book-01-complaints-not-inspiration/) | KDP-ready MS ~29.5k + listing pack |
 | 2 | Ship the Smallest Thing | Queued |
 | 3 | Buy Time, Not PMF | Queued |
 | 4 | Earn the Click | Queued |

@@ -156,7 +156,7 @@ Product taste still matters—after the gate. Before the gate, taste is often fe
 
 ## Bridge to Book 2: *Ship the Smallest Thing*
 
-Book 1 ends when demand work has done its job: you refused fake heat, named a hireable job, chained sources, and let payment speak.
+Book 1 ends when demand work has done its job: you refused fake heat, named a job worth hiring for, chained sources, and let payment speak.
 
 Book 2 starts where builders get itchy: delivery, MVP boundaries, getting paid without confusing a checkout stub for a business, and keeping scope inside the broom you already sold. It merges the spirit of the handbook’s development and payment volumes—without promising that shipping small equals getting rich.
 
@@ -310,6 +310,93 @@ Keep going only when the artifacts are real.
  That is enough.
  One clean week beats a decorative quarter.
  Write it down today, clearly.
+
+## Day-1 Capture Sheet (Copy/Paste)
+
+Use this on Monday morning so “open the ledger” is not vague:
+
+```text
+SPRINT — week of: ____
+Primary pond: ____
+Why buyers here can pay (1–2 lines): ____
+Secondary pond (falsifier): ____
+Payment path tested on Day 0? yes/no — tool: ____
+
+Raw capture goal: 10–20 artifacts
+Artifact columns: title | url | ugly quote | date | pond
+
+Seeds parking lot (inspiration only):
+- 
+- 
+
+End of Day 1 checklist:
+[ ] Ledger file created from templates/complaint-ledger.md
+[ ] ≥10 raw artifacts with URLs
+[ ] Zero solutioning in notes (move ideas to Seeds)
+[ ] Public kill doc exists (even empty)
+```
+
+If the checklist fails, do not “make up time” by skipping Day 2 structure. Slip the verdict date in writing—or compress with eyes open using the three-day variant.
+
+## Day-5 Card Review Script (15 minutes with a partner or rubber duck)
+
+Read the card aloud. Partner is allowed only these questions:
+
+1. Which pain URLs can I open without your narration?  
+2. Where is wallet weather—or the words `none yet`?  
+3. What is the scar in concrete language?  
+4. What did open source already do to your fixture?  
+5. What are the three risks—said before the wedge?  
+6. What is forbidden_scope, and where will buyers see the edge of the promise?
+
+If any answer needs a story instead of a field, the card is not ready. Fix fields. Do not debate charisma.
+
+## Pre-Sale Page Minimum (Day 6 without theater)
+
+Your page only needs:
+
+- Who is on fire (scene)  
+- What you stop (one sentence)  
+- What you will not do (forbidden_scope, short)  
+- Price (real number)  
+- How delivery works this month (manual OK)  
+- How to pay  
+- How to ask a question  
+- A dated note that this is an early offer, not a forever roadmap poster  
+
+Anything else is optional decoration. Decoration are how Day 6 becomes Day 20.
+
+## Sprint Anti-Patterns (Quick List)
+
+- Collecting 80 rows to avoid one kill  
+- Designing logos on Day 1  
+- Writing SEO calendars on Day 2  
+- Building a monorepo on Day 4 “to demo the vision”  
+- Waitlist without price on Day 6  
+- Extending Day 7 into “another week of digging” without a revise date  
+- Celebrating friend payments as stranger verdicts  
+- Deleting forbidden_scope after first praise  
+
+Pin this list next to Chapter 8’s red lines if your hands get itchy.
+
+## After Verdict — File Hygiene
+
+Create a folder named with the verdict date:
+
+```text
+sprint-YYYY-MM-DD/
+  ledger.md
+  fire-*.md
+  jtbd.md
+  opportunity-card.md
+  page-copy.md
+  verdict.md
+  handoff-10-lines.md
+```
+
+Future you will not remember the adrenaline. Future you will remember the folder if it exists. Book 2 should open that folder—not a new brainstorm.
+
+---
 
 ## Takeaway
 

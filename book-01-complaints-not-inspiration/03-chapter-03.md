@@ -215,6 +215,136 @@ If they cannot, you are not being difficult. You are being the adult who refuses
 
 ---
 
+## Field Craft: Collecting Complaints Without Cosplay
+
+Chapter 3’s filter is useless if your intake is lazy. This section is the operational depth: how to pull ore from ponds builders actually use—especially Reddit-shaped communities—without turning “listening” into a second full-time job or a spam career.
+
+### Pick a vertical pond (not the entire internet)
+
+Write one sentence: **who already pays for adjacent work**, and **where they talk when stuck**. Examples of pond types (not commandments):
+
+- A vertical subreddit or forum where the job shows up weekly  
+- A plugin / extension / theme store niche with downloads *and* one-stars  
+- A request board where people write “I want…” in plain language  
+- A competitor’s community you can **listen** inside (not spray)  
+- Your own support tags, if you already have users  
+
+If you cannot name why speakers in that pond can pay—even roughly—pick another pond. Tourist ponds produce eloquent poverty.
+
+Cap yourself: **one primary pond, one secondary for cross-check.** Twelve tabs is inspiration theater with better bookmarks.
+
+### Reddit-shaped intake (read-only)
+
+A common overseas-builder ritual:
+
+1. Enter a vertical community where buyers already speak.  
+2. Prefer help / rant / “is there a tool” posts with real scenes over joke megathreads.  
+3. When the platform offers machine-readable thread data (for example appending a structured JSON view to a thread URL on Reddit), pull it for analysis—not for auto-replies.  
+4. Run the four questions.  
+5. Write durable ledger rows with URLs and risks.  
+6. **Stop.** Do not auto-comment, auto-DM, or “engage to build authority” with scripts.
+
+Reusable analysis spine (same as the ledger):
+
+```text
+Analyze the thread/cluster data:
+1. Top 3 concentrated complaints (user language)
+2. Substitutes mentioned most
+3. Tool-shaped wedge opportunities (smallest broom, not category reboot)
+4. Payment clues (quotes, paid tools, VA/agency spend) — or explicit none
+```
+
+AI can draft the four answers. You still mark `noise` vs `theme`, update `repeat_count`, and refuse to invent `paid_clue`.
+
+### What “good raw capture” looks like on Day 1
+
+Aim for **10–20 raw artifacts** before you solutioneer:
+
+- Title + URL  
+- Ugly quote that carries scene language  
+- Date captured  
+- Pond name  
+
+Do not capture only the cleverest lines. Clever is a bias. Capture the boring weekly collisions.
+
+If after twenty artifacts you still have zero rows with all three signal parts even partially marked, you may be in a meme pond. Change ponds before you change product ideas.
+
+### Plugin and store reviews
+
+High downloads + low stars is often richer than a viral roast. Reviews tend to name the gap in operational language: export fails, billing packs, “broke after update,” “support never answered,” “works until client count > N.”
+
+Cluster reviews by **failure mode**, not by star count alone. Five one-stars about the same Thursday export beat twenty one-stars about unrelated aesthetics.
+
+Log the product name, review date window, and whether reviewers mention paying alternatives. That last bit feeds Q4.
+
+### Request boards and “I want” pools
+
+Some navigation and directory sites publish explicit request pools—people writing what they wish existed. Treat these as **pain drafts**, not purchase orders. Many requests are curiosity. Promote only when you can attach frequency, substitutes, and a payment clue from somewhere else—or when you are ready to price a test against that wording.
+
+### Discord and live communities
+
+Listening in competitor or niche Discords can surface scene language fast. Rules:
+
+- Read more than you speak.  
+- Do not scrape private spaces you are not allowed to.  
+- Do not pitch inside help channels on day one.  
+- If you later sell air, disclose and follow the community’s rules. Ban evasion is not a growth hack; it is how you lose the vein.
+
+Member count is heat, not demand. A huge server full of lurkers can be quieter commercially than a small forum with invoices in the open.
+
+### Deduping without killing signal
+
+Same URL twice → one row.  
+Same complaint, different species (thread + store review) → raise `repeat_count`, keep both sources listed.  
+Same meme recycled weekly → do not inflate repeats; mark entertainment.
+
+A simple rule: **repeats count independent speakers and independent surfaces**, not upvote velocity.
+
+### When to bring a second measuring stick early
+
+If your pond is emotionally loud but commercially mute, peek at market behavior without turning Book 1 into an SEO manual:
+
+- Are freelancers selling the job as a service?  
+- Do substitutes already charge?  
+- Does search language look like a job (“how to export client markup weekly”) rather than pure brand navigation?
+
+Write what you find under honesty fields. Then return to the ledger. Charts do not replace complaints; they stress-test them.
+
+### Time boxing collection
+
+| Block | Work | Stop when |
+| --- | --- | --- |
+| 45–90 min | Raw capture in primary pond | 10–20 artifacts or diminishing new language |
+| 30–45 min | Four questions on top clusters | ≥2 candidate themes or a written “pond may be wrong” |
+| 20 min | Secondary pond cross-check | Confirm, weaken, or kill top theme |
+| 15 min | Hygiene | Dedupe, kills, `none yet` aging |
+
+If collection regularly eats your build week, you reinvented Failure Mode 4 (eternal digging) with a prettier spreadsheet.
+
+### Ethics and reputation
+
+Complaint mining is not entitlement to people’s time. You are reading public frustration to decide whether *you* should spend *your* calendar. That does not grant you the right to harvest emails, mass-DM sufferers, or impersonate support.
+
+When you later ask for money, you enter as a vendor with a clear promise—not as a ghost who mined their pain and vanished into a pitch deck.
+
+### Composite capture log (teaching sketch)
+
+```text
+Pond: design-ops adjacent forum + plugin reviews
+Captured: 16 artifacts
+Noise: 7 (meme / “lol same” / no scene)
+Watch: 4 (scene but single-species)
+Theme candidates: 2
+  - Thursday markup export corruption (3 sources, VA mention)
+  - “AI rewrite my comments” (1 species, no payment clue)
+Kills today: AI rewrite theme → killed (inspiration costume; no schedule; no paid substitute fossil)
+Next: fire-test export theme only
+```
+
+This sketch is not a niche recommendation. It shows what a non-fog afternoon produces: numbers, kills, and a next gate—not a mood.
+
+---
+
 ## Takeaway
 
 **Complaint signal = already using + frequency + gap.** Missing a part? Log the hole; do not pretend completeness.

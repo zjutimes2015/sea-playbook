@@ -1,18 +1,221 @@
 # Complaints, Not Inspiration
 
-**Subtitle:** How to Find Real Product Demand by Mining What Customers Already Hate  
+**Subtitle:** How to Find Real Product Demand by Mining What Customers Already Hate
 
-**Series:** The Sea Playbook — Book 1 of 5  
+**Series:** The Sea Playbook — Book 1 of 5
 
-**Promise:** After you finish, you should be able to run a Complaint Ledger hard enough to reject most fake demand in a week and put one survivor through a pre-sale.  
+**Author:** Micheal (An Yaming)
 
-**Not a promise:** No guaranteed MRR or revenue tier. Handbook figures elsewhere are teaching cases—study the shape; do not tattoo the numbers on your OKRs.  
+**Edition note:** English Kindle manuscript for manual Amazon KDP upload. No auto-publish bots. Handbook case figures elsewhere are teaching shapes, not forecasts.
 
-**Rule to keep:** Inspiration is a seed. A complaint is evidence. A payment is a verdict.
+---
 
-**Templates:** `templates/complaint-ledger.md` · `templates/fire-test.md` · `templates/jtbd-one-liner.md`
+## Promise
 
-**Next in series:** Book 2 — *Ship the Smallest Thing*
+After you finish, you should be able to run a **Complaint Ledger** hard enough to reject most fake demand in a week and put **one survivor** through a priced pre-sale (or a clean, dated kill).
+
+That is a skill promise: artifacts, gates, and a verdict. It is not a money promise.
+
+## Not a Promise
+
+Nothing in this book guarantees MRR, ranking, traffic, or a revenue tier.
+
+Handbook teaching cases you will meet—roughly **$10k MRR** repair-path stories, roughly **eight** backlinks with keyword difficulty near **zero** and about **41K** monthly visits—are **illustrations of shape**. Study the shape. Do not tattoo the numbers on your OKRs. Do not quote them as what *your* product will earn.
+
+If a sentence ever sounds like certainty for sale, reread this page. Certainty is inspiration’s favorite costume.
+
+## The Rule You Can Say Out Loud
+
+Inspiration is a seed.  
+A complaint is evidence.  
+A payment is a verdict.
+
+Keep the three layers separate. Seeds are allowed. Evidence is logged. Verdicts require money—or an honest silence after a priced ask.
+
+---
+
+## How to Use This Book
+
+This is a field manual, not a novel you finish and forget.
+
+**Read once for the spine.** Chapters 1–2 fix the room’s incentives. Chapters 3–5 give signal, fire, and job language. Chapters 6–7 chain sources and sell air. Chapter 8 names failure modes. Chapter 9 packs a week.
+
+**Then run Chapter 9 with the templates.** Empty theory without a dated ledger is cosplay. The templates in `templates/` are the product.
+
+**Suggested paths**
+
+| If you are… | Do this |
+| --- | --- |
+| Solo indie / overseas builder with one week | Front matter → Ch 3 skim → Ch 4–5 → Ch 7 → Ch 9 sprint |
+| Leading a small product room stuck on sticky notes | Ch 1–2 aloud in the room → Ch 8 red lines on the wall → Ch 9 |
+| Already shipping but drowning in “insights” | Ch 3 filter + Ch 6 chain + Ch 8 audit; skip pep talks |
+| Only here for JTBD / fire language | Ch 4–5 + templates; still respect the perimeter |
+
+**Artifacts beat highlights.** A highlighted Kindle paragraph that never becomes a ledger row did not count.
+
+**Stop rules while reading:** if you catch yourself planning a six-month platform during Chapter 3, close the architecture tab. If you catch yourself hunting “guaranteed niches,” close the envy tab. Return to the ledger.
+
+### What “done” means for Book 1
+
+You are done with Book 1’s job when you have:
+
+1. A Complaint Ledger with sources (not vibes).  
+2. At least two written kills.  
+3. Zero or one fire-test PASS with a job one-liner.  
+4. One opportunity card with open-source honesty—or a kill that names the hole.  
+5. A priced ask (or a dated decision that you will not ask yet).  
+6. A Day-7-style verdict in writing.
+
+You are **not** done when you have a mood board, a competitor matrix with no URLs, or a waitlist with no price.
+
+---
+
+## Gatekeeper Rules (Use Before You Praise)
+
+Every go / no-go call in this series follows the same order:
+
+1. **Risks / holes first** — at least three, concrete.  
+2. **Suggestions** — what would reduce those risks.  
+3. **Conclusion** — pass / conditional pass / reject, with conditions named.
+
+Praise before risks is how Inspiration Pool meetings survive. Risks before conclusions is how Complaint Ledger meetings earn the right to spend calendar.
+
+### Gate checklist (copy into reviews)
+
+```text
+【Risks / holes】(≥3, write first)
+1. …
+2. …
+3. …
+
+【Suggestions】
+- …
+
+【Conclusion】
+- Pass / Conditional pass / Reject
+- Conditions (if any): verification metric, open-source note, MVP scope, traffic hypothesis
+```
+
+If someone refuses to write risks first, they are asking you to fund a vibe. Decline politely. Decline in writing.
+
+---
+
+## Path Diagram (Text)
+
+Book 1’s motion, in one strip:
+
+```text
+Seeds (inspiration OK here)
+        │
+        ▼
+Complaint Ledger  ←── already using · frequency · gap
+        │
+        ▼
+Themes + Four Questions  ←── kills are output
+        │
+        ▼
+Fire Test (must-have)  ←── risks first; ugly broom OK
+        │
+        ▼
+JTBD one-liner  ←── When / want / so I can
+        │
+        ▼
+Four-source chain + opportunity card
+  pain → wallet weather → competitor scars → tech window + GitHub honesty
+        │
+        ▼
+Sell air (priced page / pre-sale / form + payment path)
+        │
+        ▼
+Verdict: kill | revise + date | proceed to smallest ship
+        │
+        ▼
+Book 2 — Ship the Smallest Thing   (only after verdict)
+```
+
+**Hard boundary:** conversion polish, ad scaling, SEO systems, GEO, and link-building belong later in the series. Using them as substitutes for the strip above is how teams buy traffic for a job that never stood.
+
+**Handbook early priority (teaching, not prophecy):** demand → traffic hypothesis → product. Early means before you have a gated survivor. After a survivor and a broom, Book 2+ change the emphasis. Do not smuggle Book 4 into Day 2 of a complaint sprint.
+
+---
+
+## Series Note — The Sea Playbook
+
+| Book | Title | Job of the book |
+| --- | --- | --- |
+| **1 (this book)** | Complaints, Not Inspiration | Find demand: complaints, fire, jobs, chain, air |
+| 2 | Ship the Smallest Thing | Smallest observable delivery + getting paid without mythology |
+| 3 | Buy Time, Not PMF | 1–2 channels; ads buy time; CTR ≠ PMF |
+| 4 | Earn the Click | SEO systems × GEO qualification × link trust |
+| 5 | Numbers That Decide | Breakpoints, stop/scale rules, solo-company vetoes |
+
+Read in order when you can. Skipping Book 1 to start at ads or SEO is a common way to fund theater.
+
+Each book ends with a bridge and the same perimeter: **no income promises; cases are shapes; risks before conclusions.**
+
+---
+
+## Time Boxes (Honest)
+
+| Pass | Duration | Outcome |
+| --- | --- | --- |
+| Spine read (Ch 1–9 + interlude) | one focused evening or two short ones | mental model + red lines |
+| Template familiarization | 30–45 minutes | blank ledger/fire/JTBD opened |
+| Full Chapter 9 sprint | 7 calendar days (or 3-day compress) | dated verdict |
+| Gatekeeper review of a card | 15–30 minutes | risks → suggestions → conclusion |
+
+If you only have a lunch hour, do not “speed-run” a fake sprint. Do a thirty-minute chain pass (Chapter 6 / Interlude) and schedule the week. Fake sprints create fake kills and fake confidence.
+
+---
+
+## Named Reader
+
+I write for people who ship without a research department:
+
+- Indie developers  
+- Overseas site builders  
+- One-person product leads  
+- Small teams that can still change direction in a week  
+
+If you already have product-market fit and a sales team that brings signed contracts every month, treat Chapters 3, 7, and 8 as hygiene and skim the rest. If you are still arguing whether an idea “feels big enough,” stay for the whole ride.
+
+The desk this book was written from is an overseas-builder desk: English communities, search intent as a *lens*, pre-sales, open-source comparison before reinventing. The psychology travels. The channel examples lean that direction on purpose.
+
+---
+
+## Voice Contract (English Craft)
+
+Short sentences when the point is a gate. Concrete nouns and verbs. Case → definition → boundary. Named tools and templates over slogans.
+
+You will not find filler that sounds like a model warming up. If a paragraph cannot survive a gatekeeper pass, it should not survive your build week either.
+
+**Verifiable quotes only.** When a public line appears (for example Steve Blank on facts outside the building, or public JTBD teaching around the milkshake research pattern), it is attributed. Invented testimonials are forbidden.
+
+---
+
+## Materials You Will Need Before Chapter 9
+
+- Blank Complaint Ledger (`templates/complaint-ledger.md`)  
+- Fire-test one-pager (`templates/fire-test.md`)  
+- JTBD one-liner (`templates/jtbd-one-liner.md`)  
+- A notes doc for public kills  
+- A boring way to take payment (test it before Day 6)  
+- A timer  
+- Chapter 8’s red lines visible  
+
+If checkout is “we’ll figure it out later,” start figuring before the sprint. Mid-sprint payment archaeology creates fake silence that you will misread as “no demand.”
+
+---
+
+## A Note on Handbook Numbers
+
+Wherever this manuscript mentions approximate **$10k MRR**, **~8 backlinks**, **KD near zero**, or **~41K** monthly visits, read them as **case shapes from the Sea handbook teaching archive**—paths someone else walked, summarized for judgment practice. They are not your targets, not your floor, and not a promise that repair jobs or thin pages pay the same twice.
+
+The scarce skill is judgment at the source of pain. Scoreboards are optional. Self-deception is expensive.
+
+---
+
+*Begin Chapter 1 when the Inspiration Wall is still warm in your memory. Keep this front matter open when someone tries to Approve a sticky note in three seconds.*
 
 ---
 
@@ -226,7 +429,6 @@ What demand work should collect was never the word *inspiration*. It was the hon
 **This week:** Empty (or freeze) the Inspiration Pool. Open a Complaint Ledger. Enter only from reviews, help posts, and repeated rants—not from brain-invented sticky notes.
 
 **Not a promise:** Handbook cases (~$10k MRR repair paths; ~8 backlinks / KD≈0 / ~41K visits intent pages) are paths to study, not revenue forecasts for your project.
-
 
 ---
 
@@ -469,7 +671,6 @@ Write the kill where people can see it: “Killed: AI journal for generic produc
 
 **Watch for:** workshops that produce photos; OKRs that only count shipped tickets; “we listen” channels with no structure; listening forever with no gate.
 
-
 ---
 
 # Chapter 3 — The Complaint Signal
@@ -689,6 +890,136 @@ If they cannot, you are not being difficult. You are being the adult who refuses
 
 ---
 
+## Field Craft: Collecting Complaints Without Cosplay
+
+Chapter 3’s filter is useless if your intake is lazy. This section is the operational depth: how to pull ore from ponds builders actually use—especially Reddit-shaped communities—without turning “listening” into a second full-time job or a spam career.
+
+### Pick a vertical pond (not the entire internet)
+
+Write one sentence: **who already pays for adjacent work**, and **where they talk when stuck**. Examples of pond types (not commandments):
+
+- A vertical subreddit or forum where the job shows up weekly  
+- A plugin / extension / theme store niche with downloads *and* one-stars  
+- A request board where people write “I want…” in plain language  
+- A competitor’s community you can **listen** inside (not spray)  
+- Your own support tags, if you already have users  
+
+If you cannot name why speakers in that pond can pay—even roughly—pick another pond. Tourist ponds produce eloquent poverty.
+
+Cap yourself: **one primary pond, one secondary for cross-check.** Twelve tabs is inspiration theater with better bookmarks.
+
+### Reddit-shaped intake (read-only)
+
+A common overseas-builder ritual:
+
+1. Enter a vertical community where buyers already speak.  
+2. Prefer help / rant / “is there a tool” posts with real scenes over joke megathreads.  
+3. When the platform offers machine-readable thread data (for example appending a structured JSON view to a thread URL on Reddit), pull it for analysis—not for auto-replies.  
+4. Run the four questions.  
+5. Write durable ledger rows with URLs and risks.  
+6. **Stop.** Do not auto-comment, auto-DM, or “engage to build authority” with scripts.
+
+Reusable analysis spine (same as the ledger):
+
+```text
+Analyze the thread/cluster data:
+1. Top 3 concentrated complaints (user language)
+2. Substitutes mentioned most
+3. Tool-shaped wedge opportunities (smallest broom, not category reboot)
+4. Payment clues (quotes, paid tools, VA/agency spend) — or explicit none
+```
+
+AI can draft the four answers. You still mark `noise` vs `theme`, update `repeat_count`, and refuse to invent `paid_clue`.
+
+### What “good raw capture” looks like on Day 1
+
+Aim for **10–20 raw artifacts** before you solutioneer:
+
+- Title + URL  
+- Ugly quote that carries scene language  
+- Date captured  
+- Pond name  
+
+Do not capture only the cleverest lines. Clever is a bias. Capture the boring weekly collisions.
+
+If after twenty artifacts you still have zero rows with all three signal parts even partially marked, you may be in a meme pond. Change ponds before you change product ideas.
+
+### Plugin and store reviews
+
+High downloads + low stars is often richer than a viral roast. Reviews tend to name the gap in operational language: export fails, billing packs, “broke after update,” “support never answered,” “works until client count > N.”
+
+Cluster reviews by **failure mode**, not by star count alone. Five one-stars about the same Thursday export beat twenty one-stars about unrelated aesthetics.
+
+Log the product name, review date window, and whether reviewers mention paying alternatives. That last bit feeds Q4.
+
+### Request boards and “I want” pools
+
+Some navigation and directory sites publish explicit request pools—people writing what they wish existed. Treat these as **pain drafts**, not purchase orders. Many requests are curiosity. Promote only when you can attach frequency, substitutes, and a payment clue from somewhere else—or when you are ready to price a test against that wording.
+
+### Discord and live communities
+
+Listening in competitor or niche Discords can surface scene language fast. Rules:
+
+- Read more than you speak.  
+- Do not scrape private spaces you are not allowed to.  
+- Do not pitch inside help channels on day one.  
+- If you later sell air, disclose and follow the community’s rules. Ban evasion is not a growth hack; it is how you lose the vein.
+
+Member count is heat, not demand. A huge server full of lurkers can be quieter commercially than a small forum with invoices in the open.
+
+### Deduping without killing signal
+
+Same URL twice → one row.  
+Same complaint, different species (thread + store review) → raise `repeat_count`, keep both sources listed.  
+Same meme recycled weekly → do not inflate repeats; mark entertainment.
+
+A simple rule: **repeats count independent speakers and independent surfaces**, not upvote velocity.
+
+### When to bring a second measuring stick early
+
+If your pond is emotionally loud but commercially mute, peek at market behavior without turning Book 1 into an SEO manual:
+
+- Are freelancers selling the job as a service?  
+- Do substitutes already charge?  
+- Does search language look like a job (“how to export client markup weekly”) rather than pure brand navigation?
+
+Write what you find under honesty fields. Then return to the ledger. Charts do not replace complaints; they stress-test them.
+
+### Time boxing collection
+
+| Block | Work | Stop when |
+| --- | --- | --- |
+| 45–90 min | Raw capture in primary pond | 10–20 artifacts or diminishing new language |
+| 30–45 min | Four questions on top clusters | ≥2 candidate themes or a written “pond may be wrong” |
+| 20 min | Secondary pond cross-check | Confirm, weaken, or kill top theme |
+| 15 min | Hygiene | Dedupe, kills, `none yet` aging |
+
+If collection regularly eats your build week, you reinvented Failure Mode 4 (eternal digging) with a prettier spreadsheet.
+
+### Ethics and reputation
+
+Complaint mining is not entitlement to people’s time. You are reading public frustration to decide whether *you* should spend *your* calendar. That does not grant you the right to harvest emails, mass-DM sufferers, or impersonate support.
+
+When you later ask for money, you enter as a vendor with a clear promise—not as a ghost who mined their pain and vanished into a pitch deck.
+
+### Composite capture log (teaching sketch)
+
+```text
+Pond: design-ops adjacent forum + plugin reviews
+Captured: 16 artifacts
+Noise: 7 (meme / “lol same” / no scene)
+Watch: 4 (scene but single-species)
+Theme candidates: 2
+  - Thursday markup export corruption (3 sources, VA mention)
+  - “AI rewrite my comments” (1 species, no payment clue)
+Kills today: AI rewrite theme → killed (inspiration costume; no schedule; no paid substitute fossil)
+Next: fire-test export theme only
+```
+
+This sketch is not a niche recommendation. It shows what a non-fog afternoon produces: numbers, kills, and a next gate—not a mood.
+
+---
+
 ## Takeaway
 
 **Complaint signal = already using + frequency + gap.** Missing a part? Log the hole; do not pretend completeness.
@@ -717,7 +1048,6 @@ Hygiene is boring. Boring is how ledgers stay trustworthy.
 
 
 **Next:** Chapter 4 runs surviving themes through the fire test—must-have versus nice-to-have—before anyone estimates endpoints.
-
 
 ---
 
@@ -968,7 +1298,6 @@ Some fires are calendar-shaped because a regulator, a platform, or a contract de
 
 **Next:** Chapter 5 — jobs, not personas. If you cannot say what job they hire you for, demand is not standing yet.
 
-
 ---
 
 # Chapter 5 — Jobs, Not Personas
@@ -1205,7 +1534,6 @@ Competing hires include inertia. “Do nothing” is often the strongest competi
 **Watch for:** feature museums; teal debates; translated personas; “AI” as a fake job; empty ledgers with pretty sentences.
 
 **Next:** Chapter 6 — four sources, one chain. A job still needs cross-checks before you trust it with a week of your life.
-
 
 ---
 
@@ -1463,6 +1791,222 @@ Sometimes search volume is high and complaints are thin—or complaints are loud
 **Watch for:** meme weather, model-word spikes, CSS-only differentiation, vanity dashboards, eternal “watch.”  
 **Next:** Chapter 7 — sell air first. Payment is the verdict; likes are not.
 
+---
+
+# Interlude — GitHub Honesty & Search as a Demand Lens
+
+Chapters 3–6 gave you ore, fire, jobs, and a chain. Two honesty moves still kill more fake projects than any brainstorm: **open-source comparison before you invent**, and **search intent used as a lens—not as a religion**.
+
+This interlude sits between “I have a card” and “I sell air.” It is not Book 4 (SEO systems). It is the minimum measurement craft a demand worker needs so wallet weather and tech windows are not vibes.
+
+---
+
+## Part A — The GitHub / Open-Source Gate
+
+### Why this gate exists
+
+Builders love blank repos. Blank repos feel like progress. Many “unique” products are thin wrappers over libraries that already solve the dirty middle step—or full rewrites of tools users can already clone.
+
+The handbook rule is blunt: **before you greenlight serious build (and before you treat a card as ready_for_presale), write what already exists in the open and why you are not just using it.**
+
+Skipping the gate creates a signature failure: six weeks later you discover a maintained project that is 80% of your broom, and your only differentiation is CSS and a landing page you are emotionally attached to.
+
+### What “checked” means (minimum bar)
+
+A complete open-source honesty field answers:
+
+1. **What exists?** Repo names, stars as a rough heat signal (not a quality verdict), last commit window, license shape at a glance.  
+2. **What job does it already hire for?** Be fair. Do not strawman a library because the README is ugly.  
+3. **What gap remains in *scene* terms?** Missing Thursday defaults, missing export path, missing opinionated workflow, missing non-ASCII handling—not “not delightful.”  
+4. **Why won’t buyers just use it?** Learning cost, hosting pain, missing glue, trust, compliance, or true missing scene. If your answer is only “ours will be prettier,” you do not have a gap—you have taste.  
+5. **Could your wedge be a thin shell?** Sometimes the honest product is configuration, templates, hosting, and support—not a ground-up engine.
+
+If any of 1–4 is `not checked`, the card cannot say `ready_for_presale`. It can say `watch` or `killed`.
+
+### Worked honesty blocks (composites)
+
+**Block PASS-shaped (shell allowed):**  
+“Libraries A/B parse and fill the document type. Last meaningful commits within months. License usable for a commercial shell. Gap: no opinionated weekly client-handoff workflow; non-ASCII names still break in the demos people actually share. Buyers currently hire VAs rather than self-host the libs. Wedge: hosted Thursday path + defaults—not a new PDF science project.”
+
+**Block FAIL-shaped (reinvent theater):**  
+“Project C already is a hosted broom for the same job; active; pricing below our planned number; our only listed edge is ‘AI-native redesign.’ Open-source core also exists with tutorials. Decision: kill self-build; optional note under Seeds for a niche template pack later—not a platform.”
+
+**Block MORE SIGNAL:**  
+“Two archived repos, one busy monorepo that might cover the job in a subdirectory we have not validated. Next: two hours of running the monorepo against our Thursday fixture file before any landing page.”
+
+### Meeting language
+
+When someone says “we should just build it, open source is messy,” answer:
+
+“Messy is a maintenance estimate. It is not a free pass. Show the honesty block or we schedule the two hours—not the two months.”
+
+When someone says “stars are low so it’s irrelevant,” answer:
+
+“Stars measure attention, not fit. Run our fixture. Fit is a file, not a vibe.”
+
+### GitHub gate checklist (paste under tech_window)
+
+```text
+[ ] Searched for the job words + format words + “export/CLI/API”
+[ ] Ran at least one existing tool/lib against a real fixture (or timed why not)
+[ ] Wrote gap in scene language
+[ ] Wrote why-not-just-use-it without “prettier”
+[ ] Named shell-vs-engine decision
+[ ] License / hosting / maintenance note (even one line)
+[ ] If reinventing engine: explicit reason + risk line for reinvent cost
+```
+
+Fail any of the first four → no `ready_for_presale`.
+
+### Boundary
+
+This gate is not anti-build. It is anti-amnesia. Plenty of businesses are opinionated shells. Shells can be honest, priced, and useful. Engines can be honest too—when the gap is real and the maintenance is priced into your life.
+
+---
+
+## Part B — Search Intent as a Demand Lens (Not an SEO Book)
+
+### What this part is for
+
+Search behavior is one way strangers outside your building reveal jobs. Used well, it feeds **market behavior** on the opportunity card. Used badly, it becomes keyword cosplay: volume boards, KD fantasies, and a site nobody hired.
+
+Book 4 will go deep on systems. Here you only need lenses that prevent two errors:
+
+1. Ignoring measured intent that already looks like a job.  
+2. Mistaking navigational or monopoly-owned queries for a product invitation.
+
+### Three lenses (word → site → site)
+
+Keep the handbook trio tiny:
+
+| Lens | Question | Demand use |
+| --- | --- | --- |
+| **Word → site** | Who already ranks or sells around this job language? | See if the job is already a business surface |
+| **Site → word** | What language does a paid/traffic site actually eat? | Steal vocabulary for ledger and page, not for spam |
+| **Site → site** | What else looks like the same commercial cluster? | Spot whether the pond is a one-off or a copyable mess |
+
+You are not building a content factory tonight. You are checking whether wallet weather exists.
+
+### Job language vs navigation language
+
+**Job-shaped queries** often include a scene or outcome: export, fix, without, for client, weekly, alternative to, how do I when…  
+**Navigation-shaped queries** often want a known brand or login: brand name alone, “official,” “download [brand],” portal names.
+
+Navigation heat can be enormous and still worthless as a first indie wedge—especially when a platform owns the intent. If your “opportunity” is ranking for someone else’s front door, you are not finding demand; you are auditioning for a lawsuit or a treadmill.
+
+### Sieves, not treasure basins
+
+Keyword tools and trend charts are **sieves**. An empty sieve can mean harsh filters or no fish. It is not a moral verdict on your creativity.
+
+Practical micro-routine (30–40 minutes max when a theme is a candidate):
+
+1. Write the job one-liner.  
+2. List 5–10 phrases buyers already used in complaints (steal from the ledger).  
+3. Check whether those phrases (or close cousins) show up as recurring search language or as pages that already attract clicks.  
+4. Note country distribution if you are shipping overseas—imperfect sticks beat mystical confidence.  
+5. Write on the card: `market_behavior: …` or `none yet`.  
+6. **Stop.** Do not open twenty tools to postpone the fire test.
+
+### Teaching-case shape (not a target)
+
+Chapter 1 mentioned a handbook case shape: a brutally simple page, roughly **eight** backlinks, keyword difficulty near **zero**, traffic near **~41K** monthly with a large search share. Read it as: **outside intent can look like evidence when the page matches a real ask.**
+
+Do not read it as: copy thin pages and inherit a living. Scene-words and model-words die young. Long-term assets still need a product loop and a brand that survives the next hype wave. Case numbers are not OKRs.
+
+### Result-backward peeks (optional)
+
+When available without turning into a research career:
+
+- New landing URLs on a competitor’s site (what they are trying to catch)  
+- Outbound traffic toward tools people recommend  
+- Income / revenue boards for **structure** (who gets paid for which mess)—not for envy cosplay  
+
+These belong under market behavior. They never replace pain sources.
+
+### Red lines for this interlude
+
+1. **No SEO roadmap inside a complaint sprint.** If you are writing a three-month content calendar before a priced ask, you left Book 1.  
+2. **No KD worship.** Difficulty scores are inputs to humility, not trophies.  
+3. **No invented “search volume proves they’ll pay.”** Search proves curiosity or navigation more often than checkout. Payment still needs Chapter 7.  
+4. **No skipping GitHub because “SEO will save us.”** Distribution does not excuse reinventing a broom that already ships.  
+5. **No typo / grey / monopoly-front-door games as a first bet** if you cannot explain compliance and maintenance like an adult. Beginners: stay in boring job language.
+
+### Tie-back to the chain
+
+```text
+Pain (ledger) 
+   → market behavior (including search lenses + service fossils)
+   → competitor scars
+   → tech window + GitHub honesty
+   → priced air
+```
+
+If search is the only bright cell on the card, you have a traffic hypothesis looking for a job. Flip back to complaints before you fall in love with a keyword.
+
+---
+
+## Part B2 — Overseas Measuring Sticks (Without Turning Into Ads/SEO)
+
+If you build for buyers outside one home market, “the search chart said so” is incomplete. Demand work still starts with complaints. Measurement sticks decide whether wallet weather is *reachable* for you.
+
+### Google as radar, Bing as a ruler (teaching metaphor)
+
+A useful handbook contrast: one engine often feels like a **radar** for what is bubbling; another’s keyword research views can feel like a **ruler** for magnitude, country mix, and who already occupies the first page. Neither replaces a ledger. Both can falsify a fantasy that “everyone” wants your broom.
+
+When a theme survives fire on English complaints, spend a short block asking:
+
+1. **Where are the speakers?** Country distribution matters for payment rails, chargebacks, support hours, and whether your price is polite or absurd.  
+2. **Is the intent job-shaped in that country mix?** Or is it branded navigation you cannot own?  
+3. **Who occupies the first results?** Agencies, incumbents, official docs, spam thin pages—each implies a different wedge (or a walk-away).  
+4. **Did the same complaint show up in the communities of that country/language?** Single-country scream ≠ global TAM bedtime story.
+
+Write answers under `market_behavior` in plain words. If you cannot measure cleanly, write `measurement incomplete` and raise a risk—do not invent a global market from a US meme.
+
+### Trends and timing humility
+
+Trend tools lag. Model-words and scene-words spike and die. If your card depends on a spike younger than your sprint, label it short-line and demand a priced ask fast—or kill when the spike is the only heat. Long-term wedges prefer job language that still makes sense when the hype thread is forgotten.
+
+### What not to do with measuring sticks
+
+- Do not open Ads Manager to “validate demand” before a Complaint Ledger theme exists. That is Book 3 energy wearing a lab coat.  
+- Do not build a content calendar from KD tables during Days 1–5.  
+- Do not treat CPC as proof of willingness to pay *you*—only as weather about auctions.  
+- Do not skip GitHub because “traffic will be large.” Large traffic on a reinvented wheel is a louder way to waste a year.
+
+### Mini worked note (composite)
+
+```text
+market_behavior: EN forum pain repeats; freelance cleanup gigs exist; 
+search language looks job-shaped ("weekly client markup export") not brand-only;
+country peek: majority EN-US/UK speaking surfaces we can support in our hours;
+ruler note: first page occupied by partial SaaS + tutorial blogs — room for opinionated Thursday shell, not for "new PDF platform";
+risk: we have not checked non-EN ponds yet — overseas expansion is a later hypothesis, not a PASS claim.
+```
+
+That paragraph is what honesty looks like. It is dull. Dull ships.
+
+---
+
+## Part C — Thirty-Minute Combined Pass
+
+When inspiration attacks with “this keyword is wide open” or “we’ll just build our own engine,” run this:
+
+**Minutes 0–8:** Re-read two pain sources; rewrite job one-liner once.  
+**Minutes 8–16:** GitHub / lib / existing hosted broom check against one fixture—or write why the check is blocked.  
+**Minutes 16–24:** Search / site lenses on job language only; write `market_behavior` or `none yet`.  
+**Minutes 24–30:** Risks ≥3; status `watch` / `ready_for_presale` / `killed`.
+
+No Figma. No monorepo. No “quick” content outline.
+
+---
+
+## Takeaway
+
+**GitHub honesty** is a gate, not a vibe: exists → job fit → scene gap → why-not-just-use → shell-or-engine.  
+**Search** is a demand *lens* inside market behavior—not permission to skip complaints or payment.  
+**Word→site / site→word / site→site** are enough for Book 1.  
+**Cases** (~8 backlinks, KD~0, ~41K visits) teach shape; they do not set your targets.  
+**Next:** Chapter 7 — sell air with a real price before heavy build.
 
 ---
 
@@ -1742,7 +2286,6 @@ Overseas charging adds friction: currency, tax display, chargebacks, local metho
 **Manual v0 allowed; absolute automation is often false demand.**  
 **Watch for:** waitlist addiction, hype copy, scope inflation after first payments, shame-driven denial.  
 **Next:** Chapter 8 — where demand-finding breaks. Self-falsify before the method falsifies your year.
-
 
 ---
 
@@ -2061,7 +2604,6 @@ Keep going only when the artifacts are real.
 **Watch for:** performing self-falsification without behavior change.  
 **Next:** Chapter 9 — one-week complaint sprint, then a short bridge to Book 2.
 
-
 ---
 
 # Chapter 9 — One-Week Complaint Sprint
@@ -2222,7 +2764,7 @@ Product taste still matters—after the gate. Before the gate, taste is often fe
 
 ## Bridge to Book 2: *Ship the Smallest Thing*
 
-Book 1 ends when demand work has done its job: you refused fake heat, named a hireable job, chained sources, and let payment speak.
+Book 1 ends when demand work has done its job: you refused fake heat, named a job worth hiring for, chained sources, and let payment speak.
 
 Book 2 starts where builders get itchy: delivery, MVP boundaries, getting paid without confusing a checkout stub for a business, and keeping scope inside the broom you already sold. It merges the spirit of the handbook’s development and payment volumes—without promising that shipping small equals getting rich.
 
@@ -2377,6 +2919,93 @@ Keep going only when the artifacts are real.
  One clean week beats a decorative quarter.
  Write it down today, clearly.
 
+## Day-1 Capture Sheet (Copy/Paste)
+
+Use this on Monday morning so “open the ledger” is not vague:
+
+```text
+SPRINT — week of: ____
+Primary pond: ____
+Why buyers here can pay (1–2 lines): ____
+Secondary pond (falsifier): ____
+Payment path tested on Day 0? yes/no — tool: ____
+
+Raw capture goal: 10–20 artifacts
+Artifact columns: title | url | ugly quote | date | pond
+
+Seeds parking lot (inspiration only):
+- 
+- 
+
+End of Day 1 checklist:
+[ ] Ledger file created from templates/complaint-ledger.md
+[ ] ≥10 raw artifacts with URLs
+[ ] Zero solutioning in notes (move ideas to Seeds)
+[ ] Public kill doc exists (even empty)
+```
+
+If the checklist fails, do not “make up time” by skipping Day 2 structure. Slip the verdict date in writing—or compress with eyes open using the three-day variant.
+
+## Day-5 Card Review Script (15 minutes with a partner or rubber duck)
+
+Read the card aloud. Partner is allowed only these questions:
+
+1. Which pain URLs can I open without your narration?  
+2. Where is wallet weather—or the words `none yet`?  
+3. What is the scar in concrete language?  
+4. What did open source already do to your fixture?  
+5. What are the three risks—said before the wedge?  
+6. What is forbidden_scope, and where will buyers see the edge of the promise?
+
+If any answer needs a story instead of a field, the card is not ready. Fix fields. Do not debate charisma.
+
+## Pre-Sale Page Minimum (Day 6 without theater)
+
+Your page only needs:
+
+- Who is on fire (scene)  
+- What you stop (one sentence)  
+- What you will not do (forbidden_scope, short)  
+- Price (real number)  
+- How delivery works this month (manual OK)  
+- How to pay  
+- How to ask a question  
+- A dated note that this is an early offer, not a forever roadmap poster  
+
+Anything else is optional decoration. Decoration are how Day 6 becomes Day 20.
+
+## Sprint Anti-Patterns (Quick List)
+
+- Collecting 80 rows to avoid one kill  
+- Designing logos on Day 1  
+- Writing SEO calendars on Day 2  
+- Building a monorepo on Day 4 “to demo the vision”  
+- Waitlist without price on Day 6  
+- Extending Day 7 into “another week of digging” without a revise date  
+- Celebrating friend payments as stranger verdicts  
+- Deleting forbidden_scope after first praise  
+
+Pin this list next to Chapter 8’s red lines if your hands get itchy.
+
+## After Verdict — File Hygiene
+
+Create a folder named with the verdict date:
+
+```text
+sprint-YYYY-MM-DD/
+  ledger.md
+  fire-*.md
+  jtbd.md
+  opportunity-card.md
+  page-copy.md
+  verdict.md
+  handoff-10-lines.md
+```
+
+Future you will not remember the adrenaline. Future you will remember the folder if it exists. Book 2 should open that folder—not a new brainstorm.
+
+---
+
 ## Takeaway
 
 **One-week sprint:** pond → ledger → fire+JTBD → chain card → priced air → dated verdict.  
@@ -2387,6 +3016,249 @@ Keep going only when the artifacts are real.
 **Watch for:** sprint cosplay that secretly becomes a build; waitlists; monorepo itching.  
 **Series:** *The Sea Playbook* Book 1 complete in draft; Book 2 is *Ship the Smallest Thing*.
 
+---
+
+# Appendix — Closing Toolkit (Worked Templates)
+
+Blank templates live in `templates/`. Blanks are not enough on a bad Wednesday. This appendix shows **filled composites**—teaching sketches, not case-study promises, not niche recommendations, not revenue forecasts.
+
+Use them to see density: what “enough” looks like before you call a theme real.
 
 ---
 
+## A. Filled Complaint Ledger Rows (Composite)
+
+### Row — noise
+
+```text
+## Ledger row — 2026-11-03 — meme roast of Editor X
+
+source_url: https://example.invalid/r/designops/comments/abc123
+source_type: reddit
+captured_at: 2026-11-03
+vertical / community: design-ops adjacent
+
+already_using: unclear
+frequency: unclear
+gap: unclear
+gap_one_liner: 
+
+q1_top_complaints:
+  - "Editor X is the devil" (joke register)
+  - 
+  - 
+q2_substitutes:
+  - punchline names only
+q3_wedge_opportunity: none honest — entertainment thread
+q4_payment_clues: none yet
+
+repeat_count: 1
+paid_clue: none yet
+open_source_gap: not checked
+risk: sarcasm density; bonding thread; no Monday scene
+
+status: noise
+kill_reason: 
+notes: keep as reminder of fake ore
+```
+
+### Row — theme → fire_test_next
+
+```text
+## Ledger row — 2026-11-03 — Thursday markup export hell
+
+source_url: https://example.invalid/r/designops/comments/export-thu
+source_type: reddit
+captured_at: 2026-11-03
+vertical / community: design-ops adjacent
+
+already_using: yes
+frequency: yes
+gap: yes
+gap_one_liner: weekly client PDF markup export corrupts non-ASCII names; 20–30 min manual fix
+
+q1_top_complaints:
+  - export breaks every Thursday handoff
+  - non-ASCII client names corrupt
+  - "another SaaS login" fatigue for partial fixes
+q2_substitutes:
+  - Tool P (paid, partial)
+  - Tool Q (paid, partial)
+  - hire a VA on Thursdays
+  - manual screenshot collage
+q3_wedge_opportunity: opinionated Thursday export path with name encoding defaults — not a new editor
+q4_payment_clues: people already pay Tool P/Q; VA spend named in-thread
+
+repeat_count: 3
+paid_clue: "we pay for P but still babysit exports" + VA mention (thread); two plugin one-stars same failure mode
+open_source_gap: libs exist for parse/fill; no hosted Thursday workflow shell checked in companion card
+risk: niche seasonality; support load if encoding edge cases explode; OSS may be enough for technical users
+
+status: fire_test_next
+kill_reason: 
+notes: cross-species with plugin reviews 2026-10
+```
+
+### Theme roll-up sketch
+
+| Theme | Sources (n) | Repeat | Paid clue? | OSS gap | Risks | Status |
+| --- | --- | ---: | --- | --- | --- | --- |
+| Thursday markup export | 3 | 3 | yes (P/Q + VA) | libs yes / shell no | support; seasonality | fire_test_next |
+| AI rewrite comments | 1 | 1 | none yet | not checked | single-species; inspiration costume | killed |
+
+---
+
+## B. Filled Fire Test (PASS-shaped composite)
+
+```text
+FIRE TEST — theme: Thursday markup export  date: 2026-11-04
+
+1) Who is on fire (role + scene)?
+   Design-ops / account lead packing client markups every Thursday afternoon before handoff.
+
+2) What is the fire (one concrete sentence)?
+   Export corrupts non-ASCII client names and burns 20–30 minutes of babysitting before the client call.
+
+3) What do they grab today?
+   Tool P or Q (partial), VA hours, or manual screenshot collage.
+
+4) Cost of doing nothing for 7 more days?
+   One more Thursday tax; client trust nick if a bad export ships; VA invoice continues.
+
+5) Primary must-have shape: frequency
+
+6) Would they accept an ugly broom that stops the fire? (yes/no + why)
+   Yes — thread language prefers “just works on Thursday” over a redesign of the editor.
+
+7) Cross-check: ≥2 independent sources? payment clue? open-source gap checked?
+   Yes threads+reviews; paid substitutes+VA; libs exist, shell gap named.
+
+8) Risks / holes (≥3 — FIRST):
+   - Support load from encoding edge cases we underestimate
+   - Technical buyers may stay on raw libs; our shell must earn convenience
+   - Seasonality / client-mix changes could shrink Thursday intensity
+   - Partial tools may ship a fix and collapse the gap
+
+9) Decision: PASS (priced test next)
+
+10) If PASS: smallest broom (one sentence)
+    Hosted Thursday export with sane name encoding + checklist defaults.
+    Forbidden scope: multiplayer editor, AI rewrite suite, “design OS,” mobile redraw.
+```
+
+**FAIL-shaped reminder:** if question 3 is “they grab nothing, they just wish,” or risks are blank, do not PASS. MORE SIGNAL with a timer beats a soft PASS.
+
+---
+
+## C. Filled JTBD One-Liner
+
+```text
+When Thursday client handoff hits and markup exports corrupt non-ASCII names,
+I want to produce a clean packet in one pass,
+so I can join the client call without a twenty-minute panic edit.
+
+Competing hires (include do-nothing / human / current tool):
+- Tool P/Q partial export
+- VA on Thursday afternoon
+- Manual screenshot collage
+- Do nothing and apologize in the call
+
+Buzzword removal test (strip AI/platform/delight): still intelligible? yes
+Wedge rhyme (one sentence): Thursday-ready export defaults for messy client names.
+External paraphrase supporting the situation: ledger quotes on weekly handoff + plugin one-stars
+Battlefield job for v0: Thursday clean packet
+Parked jobs (not this broom): AI comment rewrite; full editor replacement
+```
+
+---
+
+## D. Filled Opportunity Card
+
+```text
+OPPORTUNITY CARD — id: EXP-THU-01  date: 2026-11-04
+
+job_one_liner: When Thursday handoff hits and exports corrupt non-ASCII names, I want a clean packet in one pass, so I can take the client call without panic edits.
+fire_shape: frequency
+fire_decision: PASS
+
+pain_sources: forum thread export-thu; two plugin one-star clusters (Oct)
+market_behavior: freelance gigs for PDF cleanup / client delivery ops; paid seats on P/Q; job-shaped search language around weekly export fixes (notes only — not an SEO plan)
+competitor_scars: export one-stars; enterprise pack pricing; “hired a VA for Thursdays”
+tech_window: parse/fill libs mature; productization = workflow shell
+open_source_gap: libs A/B exist and run on our fixture; no opinionated Thursday hosted path; not reinventing engine
+
+repeat_notes: three independent surfaces across two weeks
+paid_clue: P/Q spend + VA mention
+risks (≥3):
+  - support/encoding tail risk
+  - libs-only users never convert
+  - incumbent fix ships
+wedge: hosted Thursday export + encoding defaults
+forbidden_scope: multiplayer editor; AI rewrite suite; design OS
+
+status: ready_for_presale
+kill_reason:
+```
+
+---
+
+## E. Gatekeeper Review Block (on the same card)
+
+```text
+【Risks / holes】
+1. Encoding edge cases may turn a “small shell” into a support product we cannot staff.
+2. Buyers who can run libs may refuse hosted pricing.
+3. Incumbent partial tools could close the gap before we learn.
+
+【Suggestions】
+- Price a done-with-you setup + limited seats before automation fantasy.
+- Publish forbidden_scope on the page.
+- Cap first deliveries; log every encoding miss.
+
+【Conclusion】
+- Conditional pass to priced air (Chapter 7)
+- Conditions: checkout live; OSS honesty visible internally; no monorepo; sprint verdict dated within 7 days
+```
+
+---
+
+## F. Day-7 Verdict Sketches (Short Forms)
+
+**Kill:** 400 visits, compliments, 0 checkouts → public kill sentence → new pond later.  
+**Revise:** checkout starts, questions ask for one-off hourly → change offer shape → new sprint date.  
+**Proceed:** strangers paid for setup → smallest ship with manual pipeline → forbidden_scope locked.
+
+Full narrative versions live in Chapter 9. The appendix only needs you to see that fog is optional.
+
+---
+
+## G. One-Page Monitor Card (Printable)
+
+1. Seed ≠ evidence ≠ verdict.  
+2. Ledger rows need sources.  
+3. Fire: risks first.  
+4. Job: When / want / so I can.  
+5. Chain: pain → wallet weather → scars → window + OSS.  
+6. Air: price + stranger path + dated stop.  
+7. Red lines on (Chapter 8).  
+8. Kill is output.  
+9. Cases ≠ OKRs.  
+10. Book 2 only after verdict.
+
+---
+
+## H. How This Appendix Relates to Book 2
+
+If your verdict is **proceed**, carry forward: job one-liner, forbidden_scope, priced promise, delivery story you already sold, and the risk list. Book 2 — *Ship the Smallest Thing* — starts at observable delivery and boring payment rails. It does not reopen the Inspiration Wall because shipping feels lonely.
+
+If your verdict is **kill** or **revise**, this appendix’s value is emotional as much as operational: you have artifacts that prove you worked like an adult. That dignity is the product of Book 1 even when no broom ships.
+
+---
+
+## I. Explicit Perimeter (Again)
+
+Filled examples use invented `example.invalid` URLs and composite language. They are **not** reports of a real company’s revenue, ranking, or conversion. Handbook figures cited elsewhere in the book remain teaching cases only.
+
+No row in a ledger guarantees income. A complete toolkit only raises the odds you refuse fake demand before it becomes a roadmap.
+
+---
