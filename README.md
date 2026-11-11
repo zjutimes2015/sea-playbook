@@ -8,7 +8,7 @@ English Kindle series for Amazon KDP. Author: Micheal (An Yaming).
 |---|-------|--------|
 | 1 | [Complaints, Not Inspiration](./book-01-complaints-not-inspiration/) | KDP-ready MS ~29.5k + listing pack |
 | 2 | [Ship the Smallest Thing](./book-02-ship-the-smallest-thing/) | KDP-ready MS ~25.8k + listing pack |
-| 3 | Buy Time, Not PMF | Queued |
+| 3 | [Buy Time, Not PMF](./book-03-buy-time-not-pmf/) | KDP-ready MS ~25.0k + listing pack |
 | 4 | Earn the Click | Queued |
 | 5 | Numbers That Decide | Queued |
 
