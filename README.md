@@ -10,7 +10,7 @@ English Kindle series for Amazon KDP. Author: Micheal (An Yaming).
 | 2 | [Ship the Smallest Thing](./book-02-ship-the-smallest-thing/) | KDP-ready MS ~25.8k + listing pack |
 | 3 | [Buy Time, Not PMF](./book-03-buy-time-not-pmf/) | KDP-ready MS ~25.0k + listing pack |
 | 4 | [Earn the Click](./book-04-earn-the-click/) | KDP-ready MS ~24.6k + listing pack |
-| 5 | Numbers That Decide | Queued |
+| 5 | [Numbers That Decide](./book-05-numbers-that-decide/) | KDP-ready MS ~23.6k + listing pack |
 
 Nightly automation (写作 / Grok Bot) finishes **one publishable book unit** per evening and pushes here. Source handbook: Sea 出海方法论 01–13.
 
